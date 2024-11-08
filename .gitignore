@@ -1,0 +1,9 @@
+/images/
+/assets/
+.idea
+.vscode
+*.jpeg
+*.jpg
+*.png
+*.pth
+*.pt
